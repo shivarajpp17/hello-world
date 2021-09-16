@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to simple CICD demo !!! </h1>
+<h1> Hello, This is sample CICD using Git Jenkins Maven and Apache tomcat !!! </h1>
 
